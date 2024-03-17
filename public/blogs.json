@@ -2,12 +2,14 @@
 
     {
         "ID": "001",
+
         "Cover": "https://i.ibb.co/RzH2LqY/warren-bh4-LQHc-Ocx-E-unsplash.jpg",
         "author": "John Doe",
         "author_img": "https://i.ibb.co/KhzVBPp/ethan-hoover-0-YHIlxe-Cuhg-unsplash.jpg",
         "posted_date": "2024-03-18",
         "reading_time": "10",
-        "hashtags": ["fiction", "adventure", "mystery"]
+        "hashtags": ["fiction", "adventure", "mystery"],
+        "blog_title": "Unlocking the Secrets of Lucid Dreaming: A Guide to Conscious Exploration"
         },
 
         {
@@ -17,7 +19,8 @@
             "author_img": "https://i.ibb.co/GWTwgFv/mubariz-mehdizadeh-t3zr-Em88ehc-unsplash.jpg",
             "posted_date": "2024-03-17",
             "reading_time": "8",
-            "hashtags": ["romance", "contemporary", "drama"]
+            "hashtags": ["romance", "contemporary", "drama"],
+            "blog_title": "The Rise of Remote Work: Navigating the Future of Flexible Employment"
           },
 
           {
@@ -27,7 +30,8 @@
             "author_img": "https://i.ibb.co/ChqMtGB/kelly-sikkema-JN0-SUc-TOig0-unsplash.jpg",
             "posted_date": "2024-03-16",
             "reading_time": "15",
-            "hashtags": ["science fiction", "technology", "future"]
+            "hashtags": ["science fiction", "technology", "future"],
+            "blog_title": "The Science Behind Happiness: Understanding the Psychology of Joy"
             },
 
             {
@@ -37,7 +41,8 @@
                 "author_img": "https://i.ibb.co/2NyLNwz/sergio-de-paula-c-Gmwf-HBDzk-unsplash.jpg",
                 "posted_date": "2024-03-15",
                 "reading_time": "12",
-                "hashtags": ["fantasy", "magic", "quest"]
+                "hashtags": ["fantasy", "magic", "quest"],
+                "blog_title": "Mastering the Art of Time Management: Strategies for Maximizing Productivity"
               },
 
               {
@@ -47,7 +52,8 @@
                 "author_img": "https://i.ibb.co/P5XWdL1/christopher-campbell-r-DEOVt-E7v-Os-unsplash.jpg",
                 "posted_date": "2024-03-14",
                 "reading_time": "9",
-                "hashtags": ["thriller", "suspense", "crime"]
+                "hashtags": ["thriller", "suspense", "crime"],
+                "blog_title": "The Evolution of Artificial Intelligence: From Theory to Reality"
                 }
 
 
