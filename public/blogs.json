@@ -1,0 +1,54 @@
+[
+
+    {
+        "ID": "001",
+        "Cover": "https://i.ibb.co/RzH2LqY/warren-bh4-LQHc-Ocx-E-unsplash.jpg",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co/KhzVBPp/ethan-hoover-0-YHIlxe-Cuhg-unsplash.jpg",
+        "posted_date": "2024-03-18",
+        "reading_time": "10",
+        "hashtags": ["fiction", "adventure", "mystery"]
+        },
+
+        {
+            "ID": "002",
+            "Cover": "https://i.ibb.co/3C0LWsM/chandan-verma-2-SY5-YB0-Szf4-unsplash.jpg",
+            "author": "Jane Smith",
+            "author_img": "https://i.ibb.co/GWTwgFv/mubariz-mehdizadeh-t3zr-Em88ehc-unsplash.jpg",
+            "posted_date": "2024-03-17",
+            "reading_time": "8",
+            "hashtags": ["romance", "contemporary", "drama"]
+          },
+
+          {
+            "ID": "003",
+            "Cover": "https://i.ibb.co/zX7KWmv/austin-chan-ukz-Hlkoz1-IE-unsplash.jpg",
+            "author": "Alex Johnson",
+            "author_img": "https://i.ibb.co/ChqMtGB/kelly-sikkema-JN0-SUc-TOig0-unsplash.jpg",
+            "posted_date": "2024-03-16",
+            "reading_time": "15",
+            "hashtags": ["science fiction", "technology", "future"]
+            },
+
+            {
+                "ID": "004",
+                "Cover": "https://i.ibb.co/JQyK4gT/greg-rakozy-o-Mp-Az-DN-9-I-unsplash.jpg",
+                "author": "Emily Brown",
+                "author_img": "https://i.ibb.co/2NyLNwz/sergio-de-paula-c-Gmwf-HBDzk-unsplash.jpg",
+                "posted_date": "2024-03-15",
+                "reading_time": "12",
+                "hashtags": ["fantasy", "magic", "quest"]
+              },
+
+              {
+                "ID": "005",
+                "Cover": "https://i.ibb.co/vZ7qny7/mohammadhosein-mohebbi-6dko-R1b4nt0-unsplash.jpg",
+                "author": "Michael Lee",
+                "author_img": "https://i.ibb.co/P5XWdL1/christopher-campbell-r-DEOVt-E7v-Os-unsplash.jpg",
+                "posted_date": "2024-03-14",
+                "reading_time": "9",
+                "hashtags": ["thriller", "suspense", "crime"]
+                }
+
+
+]
