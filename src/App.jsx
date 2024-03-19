@@ -11,6 +11,7 @@ function App() {
   const [bookmarks, setBookmarks] = useState([]);
 
   const handleAddToBookmarks = blog =>{
+    console.log(blog)
     const newBookmarks = [...bookmarks, blog];
     setBookmarks(newBookmarks);
   }
